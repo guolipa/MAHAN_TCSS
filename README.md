@@ -7,8 +7,8 @@ Chenwang Zheng, Dan Tao*, Jiangtao Wang, Lei Cui, Wenjie Ruan, and Shui Yu. Memo
 Please cite our paper if you use the code or datasets.
 
 # Requirement
-python==3.6    
-pytorch-gpu==1.3.0 
+- python==3.6    
+- pytorch-gpu==1.3.0 
 
 # Dataset
 We use the real-world LBSN datasets from Foursquare and Gowalla:
